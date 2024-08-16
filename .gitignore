@@ -3,6 +3,8 @@
 /**/.terraform/
 /**/.terraform/providers/
 /**/.terraform/providers/**/
+/terraform/
+
 
 
 # .tfstate files
